@@ -1,4 +1,4 @@
-package com.todolist.newarchitecture;
+package com.tibirabotto.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.todolist.BuildConfig;
-import com.todolist.newarchitecture.components.MainComponentsRegistry;
-import com.todolist.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.tibirabotto.BuildConfig;
+import com.tibirabotto.newarchitecture.components.MainComponentsRegistry;
+import com.tibirabotto.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

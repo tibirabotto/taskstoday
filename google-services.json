@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "344593865595",
+    "project_id": "tasktoday-414e1",
+    "storage_bucket": "tasktoday-414e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344593865595:android:33d53c11ed560d6a6e7bde",
+        "android_client_info": {
+          "package_name": "com.tibirabotto.todaytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344593865595-pr882k9nm5r1512jmhcld6p0mg7le94n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Lgxp2HFrvTWI63wMW7K6j53Ihomjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344593865595-pr882k9nm5r1512jmhcld6p0mg7le94n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344593865595-2fbkn58emtnr9lbvc98c9ig4ok0cncmq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tibirabotto.todaytasks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
